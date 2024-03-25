@@ -1,3 +1,4 @@
+import Nit from "./Nit"
 
 
 
@@ -5,7 +6,10 @@ function App() {
   
 
   return (
-   <h1>hello god</h1>
+    <>
+   <Nit/>
+   <h1>rahul banik</h1>
+   </>
   )
 }
 

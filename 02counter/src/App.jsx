@@ -9,7 +9,7 @@ let [counter,setCounter]=useState(0)
 
   //let counter = 0
 const addvalue =()=>{
-  console.log("clicked",counter)
+  //console.log("clicked",counter)
  // counter = counter+1
   setCounter(counter+1)
 }

@@ -6,6 +6,7 @@ function App() {
 const [color , setColor]=useState("green")
 
   return (
+   
    <>
 <div className="w-20% h-screen duration-200 " style={{backgroundColor:color}}>
 
@@ -30,6 +31,8 @@ className="outline-none px-4 py-4 rounded-full" style={{backgroundColor:"red"}}>
 </button>
 
 </div>
+
+
 
 </div>
 
